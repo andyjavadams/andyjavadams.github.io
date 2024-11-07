@@ -1,6 +1,6 @@
 html,
 body {
-  background: #16161A;
+  background: #223464;
   width:100%;
   height:100%;
   font-size: 62.5%;
@@ -17,17 +17,18 @@ header#body {
   display:flex;
   height:100%;
   padding: 0px 2.0em;
-  margin: 0 auto;
+  margin: auto;
   max-width: 900px;
 }
 
 #header{
-  margin:auto;
+  margin:center;
   text-align:center;
 }
 
 #header img {
   border-radius: 50%;
+  margin: auto;
   width: 13.0em;
 }
 h1 {
@@ -40,16 +41,12 @@ p, div {
 
 #bio {
   font-weight: lighter;
-  color: white;
+  color: #FFEEB4;
   letter-spacing: 6px;
 }
 
-#bio > div > span {
-  text-transform: uppercase;
-}
-
 #bio p {
-  margin-top: 10px;
+  margin-top: auto;
   font-size: 1.5em;
   line-height: 1.8;
 }
@@ -65,22 +62,22 @@ h1 {
 #header a, span.link {
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #fff;
-  font-size: 1.23rem;
+  color: #70B6E0;
+  font-size: 1.9rem;
   cursor: pointer;
 }
 
-footer#connect {
-  background-color: #16161A;
+footer#hayolo {
+  background-color: #1B2A50;
   color: #ffffff;
-  position: center;
+  position: fixed;
   padding: 0.5rem;
   bottom: 0;
   width: 100%;
   z-index: 1;
 }
 
-#footer-links {
+#inihayolo {
   margin: auto;
 }
 
@@ -93,4 +90,6 @@ footer#connect {
     font-size:1.2rem;
   }
 }
+
+
 
