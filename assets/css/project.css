@@ -16,7 +16,8 @@ html, body, div, h1, h2, p, a, img {
 	margin: 0px;
 	padding: 0px;
 	border: 0px;
-	font: inherit;
+	color: black;
+	font: italic;
 	vertical-align: baseline;
 }
 
@@ -74,7 +75,7 @@ html, body, div, h1, h2, p, a, img {
 	overflow: hidden;
 	margin-bottom: 16px;
 	border: none;
-	background-color: #222222;
+	background-color: #F7FBE6;
 	color: rgb(255, 255, 255);
 	transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3) 0s;
 }
@@ -134,7 +135,7 @@ html, body, div, h1, h2, p, a, img {
 
 .fgRbfR {
 	margin: 0px;
-	color: #ffffff;
+	color: #B59673;
 	font-size: 16px;
 	line-height: 1.5;
 	font-weight: 500;
@@ -155,7 +156,7 @@ html, body, div, h1, h2, p, a, img {
 	text-align: center;
 	line-height: 1.5;
 	font-size: 14px;
-	color: #ffffff99;
+	color: white;
 	font-weight: 500;
 }
 
@@ -166,7 +167,7 @@ html, body, div, h1, h2, p, a, img {
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-color: #16161A;
+	background-color: #43756C;
 }
 
 .LyLIy {
